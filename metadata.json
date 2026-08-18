@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix Final Project Of stocks",
+  "description": "ADR (14) Breakout/Breakdown scanner and backtesting application with 1% Target / 1% SL rules, Yahoo Finance data integration, and downloadable Python strategy script.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

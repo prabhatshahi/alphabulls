@@ -1,0 +1,27 @@
+{
+  "id": "com.alphabulls.app",
+  "short_name": "Alpha Bulls",
+  "name": "Alpha Bulls - ADR Breakout Scanner & Terminal",
+  "description": "Alpha Bulls - ADR Breakout/Breakdown stock scanner, backtester, and technical analysis terminal.",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512",
+      "purpose": "any"
+    }
+  ],
+  "start_url": "/",
+  "scope": "/",
+  "background_color": "#090d16",
+  "theme_color": "#090d16",
+  "display": "standalone",
+  "orientation": "portrait",
+  "categories": ["finance", "utilities", "productivity"]
+}
